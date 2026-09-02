@@ -1,0 +1,13 @@
+query,expected_id
+"Find beginner Python programming courses",D01
+"I want to learn machine learning",D02
+"Give me information about natural language processing",D03
+"I need Java programming tutorials",D04
+"Tell me about artificial intelligence",D05
+"Where does the Python snake live",D06
+"What are the nutrition benefits of apples",D07
+"Apple smartphone camera technology",D08
+"I want to study HTML CSS and JavaScript",D09
+"I need information about data science",D10
+"Explain deep learning neural networks",D11
+"I need information about SQL databases",D12
